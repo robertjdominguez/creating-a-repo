@@ -4,7 +4,7 @@ This resource is the first "do something" activity that's a part of our learning
 
 ## Overview
 
-Your goal: create a repository locally on your device.
+**Your goal: create a repository locally on your device.**
 
 To achieve this, follow these steps:
 
